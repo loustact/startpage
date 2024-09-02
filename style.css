@@ -40,6 +40,7 @@ body {
   width: 700px;
   backdrop-filter: blur(7px);
   box-shadow: 0px 0px 40px rgb(0, 0, 0);
+  border-radius: 30px;
 }
 .content {
   display: flex;
@@ -56,6 +57,7 @@ img {
   padding-left: 10px;
   width: 400px;
   padding-top: 15px;
+  border-radius: 30px;
 }
 section {
   display: flex;
@@ -133,6 +135,7 @@ form input:focus {
   margin-top: -2rem;
   background-color: var(--background-color);
   box-shadow: var(--background-glow);
+  border-radius: 30px;
 }
 
 /* Hamburger Menu */
