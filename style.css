@@ -54,10 +54,10 @@ img {
   max-height: 680px;
   max-width: 400px;
   height: 680px;
-  padding-left: 10px;
+  padding-left: 15px;
   width: 400px;
   padding-top: 15px;
-  border-radius: 30px;
+  border-radius: 40px;
 }
 section {
   display: flex;
