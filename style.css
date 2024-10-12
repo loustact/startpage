@@ -36,7 +36,7 @@ body {
   flex-direction: column;
   background-color: rgba(29, 32, 33, .902);
   margin-top: 10%;
-  height: 800px;
+  height: 715px;
   width: 700px;
   backdrop-filter: blur(7px);
   box-shadow: 0px 0px 40px rgb(0, 0, 0);
@@ -55,10 +55,10 @@ img {
   max-height: 680px;
   max-width: 400px;
   height: 680px;
-  padding-left: 10px;
+  padding-left: 15px;
   width: 400px;
   padding-top: 15px;
-  border-radius: 30px;
+  border-radius: 40px;
 }
 section {
   display: flex;
@@ -129,7 +129,7 @@ form input:focus {
   margin-left: 1rem;
 }
 .bg {
-  height: 780px;
+  height: 715px;
   position: fixed;
   width: 700px;
   margin-left: -5rem;
