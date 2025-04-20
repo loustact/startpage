@@ -142,7 +142,7 @@ form input:focus {
     radial-gradient(at 80% 0%, #9B6279 0px, transparent 50%),
     radial-gradient(at 0% 50%, #C07E93 0px, transparent 50%),
     radial-gradient(at 80% 50%, #5C314B 0px, transparent 50%),
-    radial-gradient(at 0% 100%, #9B6279 0px, transparent 50%),
+    radial-gradient(at 0% 100%, #804D65 0px, transparent 50%),
     radial-gradient(at 80% 100%, #5C314B 0px, transparent 50%),
     radial-gradient(at 0% 0%, #E096AA 0px, transparent 50%);
   box-shadow: var(--background-glow);
