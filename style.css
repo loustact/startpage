@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css2?family=Source+Code+Pro);
 :root {
   --background-color:#C07E93;
-  --link-hover: rgb(203, 99, 149);
-  --link-heading: #976a8b;
+  --link-hover: #D58EA3;
+  --link-heading: #9F657B;
   --background-glow: 0px 0px 30px #C07E93;
 }
 * {
